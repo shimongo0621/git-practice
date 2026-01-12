@@ -1,5 +1,2 @@
-# Git Practice
-GitとGitHubの練習用リポジトリ
-
-## 今日やったこと
-- 変更 → commit → push を体験
+## ブランチ練習
+- feature/test ブランチで変更しました
